@@ -1,0 +1,45 @@
+
+.titulo{font-size:50px;text-align:center;color:black;font-family:serif;background-color:white;position:absolute;left:150px;top:-26px;}
+
+.negrita{font-weight:bold;color:black;background:white;font-size:20px;position:absolute;left:7px;top:250px;}
+.negritas{position:absolute;left:10px;top:300px;}
+.rio{font-weight:bold;color:black;background:white;font-size:20px;position:absolute;left:257px;top:250px;}
+.rios{position:absolute;left:260px;top:300px;}
+.cielo{font-weight:bold;color:black;background:white;font-size:20px;position:absolute;left:507px;top:250px;}
+.cielos{position:absolute;left:510px;top:300px;}
+.valle{font-weight:bold;color:black;background:white;font-size:20px;position:absolute;left:767px;top:250px;}
+.valles{position:absolute;left:760px;top:300px;}
+
+.linkd{color:black;position:absolute;top:100px;left:110px;font-size:20px}
+
+.europa{color:blue}
+
+.sudaderas{color:goldenrod;font-size:30px;}
+
+#centro{color:black;font-family:verdana;font-size:26px;display:inline;;}
+
+
+header{width: 40%;height:200px;background-color:darkred; border: 14px dashed white;}
+main{background: url(../images/cervantes2.jpg);width:100%;height:100%;position:absolute;top:235px;
+background-size: 100% 100%;}
+body {background: url(../images/fondomarcas.jpg);
+}
+
+
+
+@media screen and (max-width:480px){
+  header{background-color:silver;}
+
+    #centro{color:black;font-family:verdana;font-size:20px;display:inline;}
+
+    .negrita{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:7px;top:180px;}
+    .negritas{width:150px;position:absolute;left:10px;top:205px;}
+    .rio{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:275px;top:180px;}
+    .rios{width:150px;position:absolute;left:280px;top:205px;}
+    .cielo{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:7px;top:380px;}
+    .cielos{width:150px;position:absolute;left:10px;top:405px;}
+    .valle{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:280px;top:380px;}
+    .valles{width:150px;position:absolute;left:280px;top:405px;}
+
+
+}
