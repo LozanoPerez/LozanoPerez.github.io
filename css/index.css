@@ -38,12 +38,12 @@ body {background: url(../images/fondomarcas.jpg);
 
     .negrita{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:7px;top:180px;}
     .negritas{width:150px;position:absolute;left:10px;top:205px;}
-    .rio{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:290px;top:180px;}
+    .rio{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:285px;top:180px;}
     .rios{width:150px;position:absolute;left:295px;top:205px;}
     .cielo{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:7px;top:380px;}
     .cielos{width:150px;position:absolute;left:10px;top:405px;}
     .valle{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:300px;top:380px;}
-    .valles{width:150px;position:absolute;left:305px;top:405px;}
+    .valles{width:150px;position:absolute;left:295px;top:405px;}
 
 
 }
