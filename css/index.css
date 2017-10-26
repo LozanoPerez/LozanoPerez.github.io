@@ -26,10 +26,9 @@ body {background: url(../images/fondomarcas.jpg);
 }
 
 
-
 @media screen and (max-width:479px){
-header{width: 40%;height:200px;background-color:silver; border: 14px dashed white;}
-  main{background: url(../images/cervantes2.jpg);width:100%;height:100%;position:absolute;top:235px;
+header{width: 100%;height:200px;background-color:silver; border: 14px dashed white;}
+  main{background: url(../images/cervantes2.jpg);width:479px;height:100%;position:absolute;top:235px;
   background-size: 100% 100%;}
   body {background: url(../images/fondomarcas.jpg);
   }
@@ -43,6 +42,5 @@ header{width: 40%;height:200px;background-color:silver; border: 14px dashed whit
     .cielos{width:150px;position:absolute;left:10px;top:405px;}
     .valle{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:200px;top:380px;}
     .valles{width:150px;position:absolute;left:205px;top:405px;}
-
 
 }
