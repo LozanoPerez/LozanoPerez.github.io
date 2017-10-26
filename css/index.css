@@ -27,11 +27,12 @@ body {background: url(../images/fondomarcas.jpg);
 
 
 
-@media screen and (max-width:480px){
-  header{background-color:silver;}
+@media screen and (max-width:479px){
+header{width: 40%;height:200px;background-color:silver; border: 14px dashed white;}
   main{background: url(../images/cervantes2.jpg);width:100%;height:100%;position:absolute;top:235px;
   background-size: 100% 100%;}
-
+  body {background: url(../images/fondomarcas.jpg);
+  }
     #centro{color:black;font-family:verdana;font-size:20px;display:inline;}
 
     .negrita{font-weight:bold;color:black;background:white;font-size:15px;position:absolute;left:7px;top:180px;}
